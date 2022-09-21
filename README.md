@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JL0428
 - 👀 I’m interested in baking and pastry.
-- 🌱 I’m currently learning HTML5 and CSS4
+- 🌱 I’m currently learning HTML5 and CSS3
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
